@@ -30,7 +30,7 @@
 
 ### 📦 Products
 
-![Product Page](src/assets/sc-2.png)
+![Product Page](src/assets/products-sc.png)
 
 ---
 
