@@ -22,9 +22,17 @@
 
 ## 📸 Screenshots
 
-| Home Page                    | Product Page                    |
-| ---------------------------- | ------------------------------- |
-| ![Home](src/assets/sc-1.png) | ![Product](src/assets/sc-2.png) |
+### 🏠 Home Page
+
+![Home Page](src/assets/sc-1.png)
+
+---
+
+### 📦 Products
+
+![Product Page](src/assets/sc-2.png)
+
+---
 
 ## 📦 Getting Started
 
